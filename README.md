@@ -1,1 +1,0 @@
-# jinasasanapita.github.io

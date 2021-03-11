@@ -1,0 +1,143 @@
+body, html
+{
+    height: 100%;
+    margin: 0;
+}
+
+p, h1, h3, h5
+{
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.background
+{
+    text-align: center;
+    background-image: url(../images/background06.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+    height: 85%;
+    width: 100%;
+}
+
+.navbar-brand
+{
+    padding-left: 1%;
+    margin-top: 10px;
+}
+
+.navbar-brand
+{
+    padding-left: 1%;;
+}
+
+#personal-image
+{
+    margin-top: 15%;
+}
+
+#name
+{
+    color: black;
+    font-size: 30px;
+    padding-top: 2%;
+    font-weight: 500;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#main-title
+{
+    position: relative;
+    width:100%;
+    text-align: center;
+    font-size: 70px;
+    top: -5%;    
+    font-family: 'Open Sans', sans-serif;
+}
+
+#project-title
+{
+    position: relative;
+}
+
+#console-card-game
+{
+    margin-top: 6%;
+}
+
+#work-experience-title
+{
+    position: relative;    
+    width:100%;
+    padding-bottom: 5%;
+    text-align: center;   
+    font-size: 70px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#imme-vr-work-exp
+{
+    margin-bottom: 13%;
+    margin-top: 5%;
+}
+
+#ongoing-projects-title
+{
+    position: relative;    
+    width:100%;
+    padding-bottom: 5%;
+    text-align: center;   
+    font-size: 70px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#gic-project-title
+{
+    position: relative;
+    text-align: center;
+    padding-bottom: 5%;
+}
+
+#genshin-calc-text
+{
+    margin-top: 5%;
+}
+
+#genshin-calc-img
+{
+    margin-left: 5%;
+}
+
+#ifm-project-title
+{
+    position: relative;
+    text-align: center;
+    padding-top: 5%;
+}
+
+#skills-title
+{
+    position: relative;
+    text-align: center;
+    padding-top: 5%;
+    font-size: 70px;
+}
+
+#programming-skills-title
+{
+    text-align: center;
+    padding-top: 2%;
+}
+
+#programming-progress-bar
+{
+    padding-top: 2%;
+}
+
+#footer
+{
+    padding-top: 20%;
+    padding-bottom: 2.5%;
+}
